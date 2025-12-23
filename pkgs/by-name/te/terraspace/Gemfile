@@ -1,2 +1,2 @@
 source "https://rubygems.org"
-gem "terraspace"
+gem "terraspace", ">= 2.2.18"
