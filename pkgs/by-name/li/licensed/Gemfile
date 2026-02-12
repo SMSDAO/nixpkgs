@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 source "https://rubygems.org"
 
-gem 'licensed', '=5.0.0'
+gem 'licensed', '= 5.0.1'
 
 gem 'csv' , '~> 3.0'
 gem 'byebug', '~> 11.1'
