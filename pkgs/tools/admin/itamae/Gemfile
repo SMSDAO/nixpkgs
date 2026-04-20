@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'itamae'
+gem 'itamae', '>= 1.14.2'
 
 # docker backend:
 gem 'docker-api'
